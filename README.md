@@ -1,2 +1,4 @@
-# COSC-1010
-Fall Semester 2026
+# My Computer Science portfolio
+
+**Fall Semester 2026**
+*COSC-1010*
